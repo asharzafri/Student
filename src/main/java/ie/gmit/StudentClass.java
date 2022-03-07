@@ -13,7 +13,7 @@ public class StudentClass {
     }
 
     public void setName(String name) {
-        if(name == "Garry Thomas"){
+        if(name == "garry Thomas"){
             this.name = name;
         }
         else{
